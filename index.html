@@ -25,7 +25,7 @@
   <main>
     <!-- Header starts here -->
     <div class="main__header">
-      <h1 class="main__header-title"> We are launching soon!
+      <h1 class="main__header-title"> We are launching <span> soon!</span>
       </h1>
       <p class="main__header-text"> Subscribe and get notified
       </p>
@@ -33,15 +33,20 @@
     <!-- Main part of the page ends here -->
 
     <!-- Header in the main part section starts here -->
-    <div class="main__form-wrapper">
-      <form action="submit" class="email-form" id="email-form">
-        <input type="text" name="email" id="email" placeholder="Your email address...">
-        <i></i>
-        <i></i>
-        <small class="email-error">Error message</small>
-      </form>
-      <button class="btn">Notify me</button>
+    <div class="container">
+      <div class="main__form-wrapper">
+        <form action="submit" class="email-form" id="email-form">
+          <input type="text" name="email" id="email" placeholder="Your email address...">
+          <i class="fas fa-check-circle"></i>
+          <i class="fas fa-exclamation-circle"></i>
+          <small class="email-error">Error message</small>
+        </form>
+        <button class="btn" form="email-form" type="submit">Notify me</button>
+      </div>
     </div>
+
+    
+
     <!-- Header in the main part section ends here -->
 
     <!-- Illustration image in the main part section starts here -->
@@ -50,17 +55,20 @@
     </picture>
     <!-- Illustration image in the main part section ends here -->
 
-    <!-- Social icons under the illastration image in the main section starts here -->
-    <div class="main__socials">
-      <i></i>
-      <i></i>
-      <i></i>
-    </div>
+
   </main>
-  <!-- Social icons under the illastration image in the main section ends here -->
 
   <!-- Footer starts here -->
   <footer>
+    <!-- Social icons under the illastration image in the main section starts here -->
+
+    <div class="main__socials">
+      <i class="fa-brands fa-facebook-f"></i>
+      <i class="fa-brands fa-twitter"></i>
+      <i class="fa-brands fa-instagram"></i>
+    </div>
+    <!-- Social icons under the illastration image in the main section ends here -->
+
     <p class="footer__text">&copy; Copyright Ping. All rights reserved.</p>
   </footer>
   <!--Footer ends here -->
