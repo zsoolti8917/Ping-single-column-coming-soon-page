@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Can be found on my Frontend mentor profile](https://www.frontendmentor.io/profile/zsoltvarju)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -54,21 +54,34 @@ Users should be able to:
 
 ### What I learned
 
+I began this project with my preferred approach, which is mobile-first design. I find it to be a very effective methodology. The web layout itself was relatively simple, and did not require much thought. However, I did have to focus on designing the form, ensuring that it was both responsive and aesthetically pleasing. I believe I achieved these goals, and am pleased with the final result.
 
+During the project, I experimented with the clamp() function, which allowed me to create a header that is responsive across all devices, from PCs to smartphones. This function proved to be very useful. However, I did encounter some difficulties when setting the maximum width of the input field during the transition from phones to higher resolutions. Ultimately, I discovered that setting the width to 100% solved this issue.
+
+From a JavaScript perspective, the project was relatively straightforward, although it did provide me with some valuable practice. Overall, I am very happy with the final outcome, and found the project to be both enjoyable and rewarding.
 
 ### Continued development
 
-
+I do not intend to make any further additions to this project as I believe it is complete, and I am satisfied with the outcome. I am committed to advancing my skills and knowledge by embarking on new projects and honing my abilities.
 
 ### Useful resources
 
+- Kevin Powell's  [blog](https://www.kevinpowell.co/) I highly recommend his channel to anyone who wants to learn web development.
+- Josh Comeau's [blog](https://www.joshwcomeau.com/) I also recommend his channel to anyone who wants to learn web development.
+- Dave Gray's [blog](https://daveceddia.com/) I also recommend his channel to anyone who wants to learn web development.
+- [MDN](https://developer.mozilla.org/en-US/) I think this is the best place to look up things.
 
+Some pages i wish i could find earlier:
+- [CSS Tricks](https://css-tricks.com/)
+- [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+- [HTML Cheat Sheet](https://htmlcheatsheet.com/)
+- [JS Cheat Sheet](https://htmlcheatsheet.com/js/)
+- [CSS Grid Cheat Sheet](https://grid.malven.co/)
+- [Flexbox Cheat Sheet](https://flexbox.malven.co/)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@zsoltvarju](https://www.frontendmentor.io/profile/zsoltvarju)
 
 
 
