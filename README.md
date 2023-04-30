@@ -1,6 +1,6 @@
 # Frontend Mentor - Ping coming soon page solution
 
-This is a solution to the [Ping coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is my solution to the [Ping coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -33,14 +33,20 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Finished project on a 1440px screen
+![Finished project on 1440px](solution/PC%20solution.png)
+
+Finished project on a 375px screen
+<br />
+![Finished project on 375px](solution/Phone%20solution.png)
 
 
 
 ### Links
 
 - Solution URL: [Can be found on my Frontend mentor profile](https://www.frontendmentor.io/profile/zsoltvarju)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [My solution on netlify](https://delightful-daifuku-95a3ad.netlify.app/)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/e94408b2-1e77-4e8e-9731-7dcae164f380/deploy-status)](https://app.netlify.com/sites/delightful-daifuku-95a3ad/deploys)
 
 ## My process
 
